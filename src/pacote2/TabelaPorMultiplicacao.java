@@ -115,4 +115,5 @@ public class TabelaPorMultiplicacao {
             System.out.println();
         }
     }
+    //
 }

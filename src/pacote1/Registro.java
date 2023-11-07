@@ -34,4 +34,5 @@ public class Registro {
     public void setProx(Registro prox) {
         this.prox = prox;
     }
+    //
 }

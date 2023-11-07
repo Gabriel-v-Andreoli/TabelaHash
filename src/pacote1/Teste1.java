@@ -17,6 +17,6 @@ public class Teste1 {
         }
         System.out.println(tabela1.getColisoes());
 
-
+    //
     }
 }
